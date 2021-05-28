@@ -1,2 +1,4 @@
 #програма
-print(кола)
+print("кола')
+
+print("fue fuefue")
